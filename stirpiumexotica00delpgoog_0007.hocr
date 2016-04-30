@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./stirpiumexotica00delpgoog_0007.png"; bbox 0 0 4942 6917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2707 2267 3138 2281">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2707 2267 3138 2281">
+     <span class='ocr_line' id='line_1_1' title="bbox 2707 2267 3138 2281; baseline 0 4636"><span class='ocrx_word' id='word_1_1' title='bbox 2707 2267 3138 2281; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1696 2334 4147 2390">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1696 2334 4147 2390">
+     <span class='ocr_line' id='line_1_2' title="bbox 1696 2334 4147 2390; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1696 2338 1835 2389; x_wconf 74' lang='lat' dir='ltr'><em>Bstr.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1866 2336 1995 2387; x_wconf 75' lang='lat' dir='ltr'><em>delle</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2026 2336 2271 2385; x_wconf 71' lang='lat' dir='ltr'><em>Memorio</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2304 2335 2437 2385; x_wconf 80' lang='lat' dir='ltr'><em>della</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2473 2334 2536 2385; x_wconf 72' lang='lat' dir='ltr'><em>R.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2573 2334 2878 2387; x_wconf 72' lang='lat' dir='ltr'><em>Arcademia</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2911 2335 3042 2387; x_wconf 78' lang='lat' dir='ltr'><em>delle</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 3073 2337 3262 2387; x_wconf 72' lang='lat' dir='ltr'><em>sciense</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 3295 2338 3346 2387; x_wconf 68' lang='lat' dir='ltr'><em>Aa·</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 3387 2338 3574 2389; x_wconf 72' lang='lat' dir='ltr'><em>Tor-ino</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3609 2336 3748 2389; x_wconf 74' lang='lat' dir='ltr'>serie</span> <span class='ocrx_word' id='word_1_13' title='bbox 3781 2351 3838 2388; x_wconf 85' lang='lat' dir='ltr'><em>n.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 3877 2342 4003 2389; x_wconf 73' lang='lat' dir='ltr'><strong>tom.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 4041 2352 4147 2390; x_wconf 74' lang='lat' dir='ltr'><em>nv.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2709 2456 3132 2473">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2709 2456 3132 2473">
+     <span class='ocr_line' id='line_1_3' title="bbox 2709 2456 3132 2473; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 2709 2456 3132 2473; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

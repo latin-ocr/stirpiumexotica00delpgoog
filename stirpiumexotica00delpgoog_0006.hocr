@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./stirpiumexotica00delpgoog_0006.png"; bbox 0 0 4942 6917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 1561 3612 1920">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 1561 3612 1920">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 1561 3612 1920; baseline -0.001 -49"><span class='ocrx_word' id='word_1_1' title='bbox 580 1561 1807 1920; x_wconf 38' lang='grc' dir='ltr'><strong>ἀμΒΤΙΒΡΙΠΜ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1980 1714 3406 1872; x_wconf 72' lang='lat' dir='ltr'><strong>ExoTchRUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3607 1717 3612 1725; x_wconf 85' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1020 2168 3068 2235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1020 2168 3068 2235">
+     <span class='ocr_line' id='line_1_2' title="bbox 1020 2168 3068 2235; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 1020 2168 1627 2232; x_wconf 75' lang='lat' dir='ltr'><strong>RARIORUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1742 2169 1943 2231; x_wconf 86' lang='lat' dir='ltr'><strong>VEL</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2050 2169 2417 2233; x_wconf 78' lang='lat' dir='ltr'>FORTE</span> <span class='ocrx_word' id='word_1_7' title='bbox 2523 2170 3068 2235; x_wconf 72' lang='lat' dir='ltr'>NOVARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1718 2540 2357 2647">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1718 2540 2357 2647">
+     <span class='ocr_line' id='line_1_3' title="bbox 1718 2540 2357 2647; baseline 0.006 -4"><span class='ocrx_word' id='word_1_8' title='bbox 1718 2540 2357 2647; x_wconf 66' lang='lat' dir='ltr'>Puffllmus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1920 2948 2173 2987">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1920 2948 2173 2987">
+     <span class='ocr_line' id='line_1_4' title="bbox 1920 2948 2173 2987; baseline 0.008 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1920 2948 2173 2987; x_wconf 70' lang='lat' dir='ltr'><strong>AAAAAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1359 3258 2726 3379">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1359 3258 2726 3379">
+     <span class='ocr_line' id='line_1_5' title="bbox 1359 3258 2726 3379; baseline 0.001 -50"><span class='ocrx_word' id='word_1_10' title='bbox 1359 3260 1463 3329; x_wconf 73' lang='grc' dir='ltr'><strong>ιΙ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1571 3258 1691 3326; x_wconf 72' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1801 3261 2726 3379; x_wconf 55' lang='lat' dir='ltr'><strong>gnaronwn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 772 5153 1072 5164">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 772 5153 1072 5164">
+     <span class='ocr_line' id='line_1_6' title="bbox 772 5153 1072 5164; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 772 5153 1072 5164; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
